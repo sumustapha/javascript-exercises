@@ -5,8 +5,7 @@ let stringLength = string.length;
 for(let i = (stringLength -1); i>=0; i--)
 {
     reverse+=string[i];
-    console.log(reverse);
-}
+    console.log(reverse);}
 return reverse;
 };
 
